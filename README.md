@@ -12,5 +12,5 @@
 |동영|||
 |민지|||
 |지영|||
-|진하|||
+|진하|[What's New in Authentication](https://github.com/Jinha2/WWDC/blob/master/WWDC2019/Whats-New-in-Authentication.md)||
 |현태|||
