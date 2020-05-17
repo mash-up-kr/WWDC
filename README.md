@@ -6,7 +6,8 @@
 - **👩🏻‍🏫 세션 보고 정리 후 공유** 온라인 1 회, 오프라인 1회 예정
 - **💸 벌금 영상 하나 당 5000원 😡** 
 
-#### 5월 3주차
-|||
+|**5월 3주차**||
 |:-:|:-:|
 |진하|[What's New in Authentication](https://github.com/Jinha2/WWDC/blob/master/WWDC2019/Whats-New-in-Authentication.md)|
+|**5월 4주차**||
+|진하|[Customized Loading in WKWebView](https://github.com/Jinha2/WWDC/blob/master/WWDC2017/Customized-Loading-in-WKWebView.md)|
