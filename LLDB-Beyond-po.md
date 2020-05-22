@@ -6,11 +6,11 @@ LLDB는 런타임 환경에서, 앱을 분석하고 디버깅할 수 있도록 �
 
 본 발표는 세 가지 파트로 나눠져 있으며 각각
 
-"변수를 displaying하는 다양한 방법들",
+- 변수를 displaying하는 다양한 방법들
 
-"어떻게 custom data type들을 format하는지", 
+- 어떻게 custom data type들을 format하는지
 
-"자신만의 파이썬3 스크립트를 활용해서 LLDB를 확장하는 방법"
+- 자신만의 파이썬3 스크립트를 활용해서 LLDB를 확장하는 방법
 
 순서로 진행된다.
 
@@ -20,41 +20,41 @@ LLDB는 런타임 환경에서, 앱을 분석하고 디버깅할 수 있도록 �
 
 ![images/LLDB-Beyond-po/Untitled%202.png](images/LLDB-Beyond-po/Untitled%202.png)
 
-먼저 위 View 에서는 에서는 정의한 변수와, 해당 변수의 타입에 관한 정보를 알 수 있다.
+- 먼저 위 View 에서는 에서는 정의한 변수와, 해당 변수의 타입에 관한 정보를 알 수 있다.
 
 ![images/LLDB-Beyond-po/Untitled%203.png](images/LLDB-Beyond-po/Untitled%203.png)
 
-또한 위와같이 Xcode의 오른쪽 아래의 뷰에 커맨드를 입력하므로서 LLDB와 소통할 수 있다.
+- 또한 위와같이 Xcode의 오른쪽 아래의 뷰에 커맨드를 입력하므로서 LLDB와 소통할 수 있다.
 
-앱을 조사하는 동안 커맨드를 통해 명령어를 입력하면, 소스코드 내, 변수에 대한 정보를 제공받을 수 있다.
+- 앱을 조사하는 동안 커맨드를 통해 명령어를 입력하면, 소스코드 내, 변수에 대한 정보를 제공받을 수 있다.
 
-LLDB는 이를 위한 몇가지 방법을 제공하는데, 각각의 방법엔 서로다른 장단점이 존재한다.
+- LLDB는 이를 위한 몇가지 방법을 제공하는데, 각각의 방법엔 서로다른 장단점이 존재한다.
 
 ## PO (Print Object)
 
-PO는 Object 변수의 정보를 얻기 위한 명령어다.
+- PO는 Object 변수의 정보를 얻기 위한 명령어다.
 
 ![images/LLDB-Beyond-po/Untitled%204.png](images/LLDB-Beyond-po/Untitled%204.png)
 
-이름 그대로 "po 변수명"형태로 입력하면, 해당 변수의 Object명과 정보들을 얻을 수 있으며, 위와같은 예가 가장 일반적인 사용법이다.
+- 이름 그대로 "po 변수명"형태로 입력하면, 해당 변수의 Object명과 정보들을 얻을 수 있으며, 위와같은 예가 가장 일반적인 사용법이다.
 
 ![images/LLDB-Beyond-po/Untitled%205.png](images/LLDB-Beyond-po/Untitled%205.png)
 
-이때 만약, 어떠한 Object에 CustomDebugStringConvertible 프로토콜을 상속시키고, debugDescription: String 프로퍼티가 적절한 값을 반환하도록 하면,
+- 이때 만약, 어떠한 Object에 CustomDebugStringConvertible 프로토콜을 상속시키고, debugDescription: String 프로퍼티가 적절한 값을 반환하도록 하면,
 
-위 결과 값처럼 po 명령어를 사용했을 때, Object명이 아닌 원하는 텍스트를 출력하도록 할 수도 있다.
+- 위 결과 값처럼 po 명령어를 사용했을 때, Object명이 아닌 원하는 텍스트를 출력하도록 할 수도 있다.
 
 ![images/LLDB-Beyond-po/Untitled%206.png](images/LLDB-Beyond-po/Untitled%206.png)
 
-CustomDebugStringConvertible은 최상위 레벨에 관한 변경만 이루어지며 만약 부수적인 부분을 바꾸고 싶다면, CustomReflectable 프로토콜을 상속시키도록 하자.
+- CustomDebugStringConvertible은 최상위 레벨에 관한 변경만 이루어지며 만약 부수적인 부분을 바꾸고 싶다면, CustomReflectable 프로토콜을 상속시키도록 하자.
 
 ![images/LLDB-Beyond-po/Untitled%207.png](images/LLDB-Beyond-po/Untitled%207.png)
 
-po를 잘 활용하면, 단순 변수를 출력하는것 뿐만아니라, 위처럼 값의 uppercase나, 배열의 정렬된 형태를 출력하는 것도 가능하다.
+- po를 잘 활용하면, 단순 변수를 출력하는것 뿐만아니라, 위처럼 값의 uppercase나, 배열의 정렬된 형태를 출력하는 것도 가능하다.
 
 ![images/LLDB-Beyond-po/Untitled%208.png](images/LLDB-Beyond-po/Untitled%208.png)
 
-command alias를 활용하면 직접, po를 커스텀해서 사용할 수 도 있다.
+- command alias를 활용하면 직접, po를 커스텀해서 사용할 수 도 있다.
 
 ![images/LLDB-Beyond-po/Untitled%209.png](images/LLDB-Beyond-po/Untitled%209.png)
 
@@ -132,15 +132,15 @@ v의 동작을 살펴보면, 단순히 메모리에 있는 변수를 읽고 포�
 
 1. 어떻게 Object가 Present 되는지
 
-    po는 Object description을 사용한다.
+    - po는 Object description을 사용한다.
 
-    p와 v는 data formatter를 사용한다.
+    - p와 v는 data formatter를 사용한다.
 
 2. 결과값이 어떻게 계산되는지
 
-    po와 p는 표현식을 컴파일해서 full language에 접근한다.
+    - po와 p는 표현식을 컴파일해서 full language에 접근한다.
 
-    v는 자신만의 syntax를 가지고 표현식을 interpret하며, dynamic type resolution에 있어서도 각각의 step을 interpret한다.
+    - v는 자신만의 syntax를 가지고 표현식을 interpret하며, dynamic type resolution에 있어서도 각각의 step을 interpret한다.
 
 ## Customizing Data Formatter
 
