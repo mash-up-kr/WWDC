@@ -11,4 +11,4 @@
 |진하|[What's New in Authentication](https://github.com/Jinha2/WWDC/blob/master/WWDC2019/Whats-New-in-Authentication.md)|
 |**5월 4주차**||
 |진하|[Customized Loading in WKWebView](https://github.com/Jinha2/WWDC/blob/master/WWDC2017/Customized-Loading-in-WKWebView.md)|
-|용완|[LLDB Beyond po](https://github.com/mash-up-kr/WWDC/LLDB-Beyond-po)|
+|용완|[LLDB Beyond po](https://github.com/mash-up-kr/WWDC/blob/master/LLDB-Beyond-po.md)|
