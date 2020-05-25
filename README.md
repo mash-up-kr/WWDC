@@ -8,12 +8,13 @@
   
     
 |**5월 3주차**||
-|:-:|:-:|
+|:-:|:-|
 |진하|[What's New in Authentication](https://github.com/Jinha2/WWDC/blob/master/WWDC2019/Whats-New-in-Authentication.md)|
 |**5월 4주차**||
 |진하|[Customized Loading in WKWebView](https://github.com/Jinha2/WWDC/blob/master/WWDC2017/Customized-Loading-in-WKWebView.md)|
 ||[Understanding Swift Performance](https://github.com/Jinha2/WWDC/blob/master/WWDC2016/Understanding-Swift-Performance.md)|
-|용완|[LLDB Beyond po](https://github.com/mash-up-kr/WWDC/blob/master/LLDB-Beyond-po.md)<br /> [Understanding Swift Performance](https://www.notion.so/wan088/Understanding-Swift-Performance-09eb2bf6ceda4f1f9b561db7059ff0de)|
+|용완|[LLDB Beyond po](https://github.com/mash-up-kr/WWDC/blob/master/LLDB-Beyond-po.md)|
+||[Understanding Swift Performance](https://www.notion.so/wan088/Understanding-Swift-Performance-09eb2bf6ceda4f1f9b561db7059ff0de)|
 |포니|[Introducing Combine](https://github.com/popsmile/WWDC/blob/master/2019/Introducing%20Combine.md)|
 |붱이|[LLDB Beyond "po"](https://github.com/O-O-wl/WWDC/blob/master/WWDC18/LLDB%20Beyond%20po/LLDB%20Beyond%20po%20b59a68ceafdc4d9db34dcfcd839d6a0e.md)|
 |민지|[High Performance AutoLayout](https://www.notion.so/cmindy/3c971177e1ef48398085b81d141d24b5?v=9ded98a92de24fb08b3302c4b2abc1f6)|
