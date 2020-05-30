@@ -23,3 +23,4 @@
 |**5월 5주차**||
 |진하|[Efficient Interactions with Frameworks](https://github.com/Jinha2/WWDC/blob/master/WWDC2017/Efficient-Interactions-with-Frameworks.md)|
 |현태|[Great Localized Experiences](https://github.com/onemoonStudio/WWDC/blob/master/Great-Localized-Experieces.md)|
+|붱이|[Swift Generics](https://github.com/O-O-wl/WWDC/blob/master/WWDC18/Swift%20Generics/Swift%20Generics.md)|
