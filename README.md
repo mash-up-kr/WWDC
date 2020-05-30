@@ -22,3 +22,4 @@
 |현태|[Protocol Oriented Programming](https://github.com/onemoonStudio/WWDC/blob/master/Protocol-Oriented-Programming.md)|
 |**5월 5주차**||
 |진하|[Efficient Interactions with Frameworks](https://github.com/Jinha2/WWDC/blob/master/WWDC2017/Efficient-Interactions-with-Frameworks.md)|
+|현태|[Great Localized Experiences](https://github.com/onemoonStudio/WWDC/blob/master/Great-Localized-Experieces.md)|
