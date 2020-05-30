@@ -25,3 +25,4 @@
 |현태|[Great Localized Experiences](https://github.com/onemoonStudio/WWDC/blob/master/Great-Localized-Experieces.md)|
 |붱이|[Swift Generics](https://github.com/O-O-wl/WWDC/blob/master/WWDC18/Swift%20Generics/Swift%20Generics.md)|
 ||[Protocol and Value Oriented Programming in UIKit Apps](https://github.com/O-O-wl/WWDC/blob/master/WWDC16/Protocol%20and%20Value%20Oriented%20Programming%20in%20UIKit.md)|
+|포니|[Combine in Practice](https://github.com/popsmile/WWDC/blob/master/2019/Combine%20in%20Practice.md)|
