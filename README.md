@@ -10,7 +10,10 @@
 |**6월 1주차**||
 |:-:|:-|
 |진하|[Advances in AVFoundation Playback](https://github.com/HARlBO/WWDC/blob/master/WWDC2016/Advances-in-AVFoundation-Playback.md)|
-    
+||[Delivering Intuitive Media Playback with AVKit](https://github.com/HARlBO/WWDC/blob/master/WWDC2019/Delivering-Intuitive-Media-Playback-with-AVKit.md)|
+
+<br/>
+
 |**5월 3주차**||
 |:-:|:-|
 |진하|[What's New in Authentication](https://github.com/Jinha2/WWDC/blob/master/WWDC2019/Whats-New-in-Authentication.md)|
