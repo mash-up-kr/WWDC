@@ -29,7 +29,11 @@
 |민지|[High Performance AutoLayout](https://www.notion.so/cmindy/3c971177e1ef48398085b81d141d24b5?v=9ded98a92de24fb08b3302c4b2abc1f6)|
 ||[Understanding Swift Performance](https://www.notion.so/cmindy/Understanding-Swift-Performance-1b09d5426c2c478c80777e3012cbfe6b)|
 |현태|[Protocol Oriented Programming](https://github.com/onemoonStudio/WWDC/blob/master/Protocol-Oriented-Programming.md)|
+
+<br/>
+
 |**5월 5주차**||
+|:-:|:-|
 |진하|[Efficient Interactions with Frameworks](https://github.com/Jinha2/WWDC/blob/master/WWDC2017/Efficient-Interactions-with-Frameworks.md)|
 ||[Swift Generics](https://github.com/HARlBO/WWDC/blob/master/WWDC2018/Swift-Generics.md)|
 |현태|[Great Localized Experiences](https://github.com/onemoonStudio/WWDC/blob/master/Great-Localized-Experieces.md)|
@@ -37,3 +41,9 @@
 ||[Protocol and Value Oriented Programming in UIKit Apps](https://github.com/O-O-wl/WWDC/blob/master/WWDC16/Protocol%20and%20Value%20Oriented%20Programming%20in%20UIKit.md)|
 |포니|[Combine in Practice](https://github.com/popsmile/WWDC/blob/master/2019/Combine%20in%20Practice.md)|
 |용완|[Swift Generics](https://www.notion.so/wan088/Swift-Generics-Expanded-bf26fe8f61224417ae2b35131b0673c1)|
+
+<br/>
+
+|**6월 1주차**||
+|:-:|:-|
+|포니|[Swift Generics (Expanded)](https://github.com/popsmile/WWDC/blob/master/2018/Swift%20Generics%20(Expanded).md)|
