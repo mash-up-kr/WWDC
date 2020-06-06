@@ -47,3 +47,5 @@
 |**6월 1주차**||
 |:-:|:-|
 |포니|[Swift Generics (Expanded)](https://github.com/popsmile/WWDC/blob/master/2018/Swift%20Generics%20(Expanded).md)|
+|민지|[What's New in iOS Design](https://www.notion.so/cmindy/What-s-New-in-iOS-Design-1c4518b4f40a4b07b135cbd79b2cac2f)|
+
