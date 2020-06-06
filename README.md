@@ -12,7 +12,7 @@
 |진하|[Advances in AVFoundation Playback](https://github.com/HARlBO/WWDC/blob/master/WWDC2016/Advances-in-AVFoundation-Playback.md)|
 ||[Delivering Intuitive Media Playback with AVKit](https://github.com/HARlBO/WWDC/blob/master/WWDC2019/Delivering-Intuitive-Media-Playback-with-AVKit.md)|
 |현태|[LLDB: Beyond "po"](https://github.com/onemoonStudio/WWDC/blob/master/LLDB-Beyond-Po.md)|
-||[Now Watching...]()|
+||[Improving Battery Life and Performance](https://github.com/onemoonStudio/WWDC/blob/master/Improving-Battery-Life-and-Performance.md)|
 
 <br/>
 
