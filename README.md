@@ -2,7 +2,7 @@
 👩🏻‍💻W̤̯W̤̫D̤̮C̤̥ 𝒔𝒕𝒖𝒅𝒚🧑🏻‍💻 
 <br/><br/>
 ### 📌 Rule
-- **🎬 일주일에 세션 2개**  공통 주제 1, 각자 보고 싶은 주제 1
+- **🎬 일주일에 세션 2개**  
 - **👩🏻‍🏫 세션 보고 정리 후 공유** 온라인 1 회, 오프라인 1회 예정
 - **💸 벌금 영상 하나 당 5000원 😡** 
 <br/><br/>
@@ -13,6 +13,9 @@
 ||[Delivering Intuitive Media Playback with AVKit](https://github.com/HARlBO/WWDC/blob/master/WWDC2019/Delivering-Intuitive-Media-Playback-with-AVKit.md)|
 |현태|[LLDB: Beyond "po"](https://github.com/onemoonStudio/WWDC/blob/master/LLDB-Beyond-Po.md)|
 ||[Improving Battery Life and Performance](https://github.com/onemoonStudio/WWDC/blob/master/Improving-Battery-Life-and-Performance.md)|
+|포니|[Swift Generics (Expanded)](https://github.com/popsmile/WWDC/blob/master/2018/Swift%20Generics%20(Expanded).md)|
+|민지|[What's New in iOS Design](https://www.notion.so/cmindy/What-s-New-in-iOS-Design-1c4518b4f40a4b07b135cbd79b2cac2f)|
+
 
 <br/>
 
@@ -43,9 +46,3 @@
 |용완|[Swift Generics](https://www.notion.so/wan088/Swift-Generics-Expanded-bf26fe8f61224417ae2b35131b0673c1)|
 
 <br/>
-
-|**6월 1주차**||
-|:-:|:-|
-|포니|[Swift Generics (Expanded)](https://github.com/popsmile/WWDC/blob/master/2018/Swift%20Generics%20(Expanded).md)|
-|민지|[What's New in iOS Design](https://www.notion.so/cmindy/What-s-New-in-iOS-Design-1c4518b4f40a4b07b135cbd79b2cac2f)|
-
