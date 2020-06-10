@@ -15,6 +15,8 @@
 ||[Improving Battery Life and Performance](https://github.com/onemoonStudio/WWDC/blob/master/Improving-Battery-Life-and-Performance.md)|
 |포니|[Swift Generics (Expanded)](https://github.com/popsmile/WWDC/blob/master/2018/Swift%20Generics%20(Expanded).md)|
 |민지|[What's New in iOS Design](https://www.notion.so/cmindy/What-s-New-in-iOS-Design-1c4518b4f40a4b07b135cbd79b2cac2f)|
+|**6월 2주차**||
+|진하|[What's New in Core Bluetooth](https://github.com/HARlBO/WWDC/blob/master/WWDC2017/Whats-New-in-Core-Bluetooth.md)|
 
 
 <br/>
