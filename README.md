@@ -21,6 +21,7 @@
 |용완|[Concurrent Programming With GCD ](https://www.notion.so/wan088/Concurrent-Programming-With-GCD-6e6a2558128d441bb9f31f8d2ab398fb)|
 |포니|[Advances in UI Data Source](https://github.com/popsmile/WWDC/blob/master/2019/Advances%20in%20UI%20Data%20Source.md)|
 ||[Using Collections Effectively](https://github.com/popsmile/WWDC/blob/master/2018/Using%20Collections%20Effectively.md)|
+|현태|[CloudKit Best Practice](https://github.com/onemoonStudio/WWDC/blob/master/CloudKit-Best-Practice.md)|
 
 <br/>
 
