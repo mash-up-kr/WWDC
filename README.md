@@ -18,7 +18,7 @@
 |**6월 2주차**||
 |진하|[What's New in Core Bluetooth(2017)](https://github.com/HARlBO/WWDC/blob/master/WWDC2017/Whats-New-in-Core-Bluetooth.md)|
 ||[What's New in Core Bluetooth(2019)](https://github.com/HARlBO/WWDC/blob/master/WWDC2019/Whats-New-in-Core-Bluetooth.md)|
-
+|용완|[Concurrent Programming With GCD ](https://www.notion.so/wan088/Concurrent-Programming-With-GCD-6e6a2558128d441bb9f31f8d2ab398fb)|
 
 <br/>
 
