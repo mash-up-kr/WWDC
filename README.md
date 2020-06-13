@@ -20,6 +20,7 @@
 ||[What's New in Core Bluetooth(2019)](https://github.com/HARlBO/WWDC/blob/master/WWDC2019/Whats-New-in-Core-Bluetooth.md)|
 |용완|[Concurrent Programming With GCD ](https://www.notion.so/wan088/Concurrent-Programming-With-GCD-6e6a2558128d441bb9f31f8d2ab398fb)|
 |포니|[Advances in UI Data Source](https://github.com/popsmile/WWDC/blob/master/2019/Advances%20in%20UI%20Data%20Source.md)|
+||[Using Collections Effectively](https://github.com/popsmile/WWDC/blob/master/2018/Using%20Collections%20Effectively.md)|
 
 <br/>
 
