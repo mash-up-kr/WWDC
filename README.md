@@ -19,6 +19,7 @@
 |진하|[What's New in Core Bluetooth(2017)](https://github.com/HARlBO/WWDC/blob/master/WWDC2017/Whats-New-in-Core-Bluetooth.md)|
 ||[What's New in Core Bluetooth(2019)](https://github.com/HARlBO/WWDC/blob/master/WWDC2019/Whats-New-in-Core-Bluetooth.md)|
 |용완|[Concurrent Programming With GCD ](https://www.notion.so/wan088/Concurrent-Programming-With-GCD-6e6a2558128d441bb9f31f8d2ab398fb)|
+||[Architecting Your App for Multiple Windows](https://www.notion.so/wan088/Architecting-Your-App-for-Multiple-Windows-89273209b8344f92ba8a9e81356b87c5)|
 |포니|[Advances in UI Data Source](https://github.com/popsmile/WWDC/blob/master/2019/Advances%20in%20UI%20Data%20Source.md)|
 ||[Using Collections Effectively](https://github.com/popsmile/WWDC/blob/master/2018/Using%20Collections%20Effectively.md)|
 |현태|[CloudKit Best Practice](https://github.com/onemoonStudio/WWDC/blob/master/CloudKit-Best-Practice.md)|
