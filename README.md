@@ -23,7 +23,7 @@
 |포니|[Advances in UI Data Source](https://github.com/popsmile/WWDC/blob/master/2019/Advances%20in%20UI%20Data%20Source.md)|
 ||[Using Collections Effectively](https://github.com/popsmile/WWDC/blob/master/2018/Using%20Collections%20Effectively.md)|
 |현태|[CloudKit Best Practice](https://github.com/onemoonStudio/WWDC/blob/master/CloudKit-Best-Practice.md)|
-|붱이|[Modern Swift API Design](https://github.com/O-O-wl/WWDC/blob/master/WWDC19/Modern%20Swift%20API%20Design/Modern%20Swift%20API%20Design%20e4a02d6c993647adb28843bc8610c8e7.mdd)|
+|붱이|[Modern Swift API Design](https://github.com/O-O-wl/WWDC/blob/master/WWDC19/Modern%20Swift%20API%20Design/Modern%20Swift%20API%20Design%20e4a02d6c993647adb28843bc8610c8e7.md)|
 
 <br/>
 
