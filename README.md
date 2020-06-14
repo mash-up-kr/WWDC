@@ -24,6 +24,7 @@
 ||[Using Collections Effectively](https://github.com/popsmile/WWDC/blob/master/2018/Using%20Collections%20Effectively.md)|
 |현태|[CloudKit Best Practice](https://github.com/onemoonStudio/WWDC/blob/master/CloudKit-Best-Practice.md)|
 |붱이|[Modern Swift API Design](https://github.com/O-O-wl/WWDC/blob/master/WWDC19/Modern%20Swift%20API%20Design/Modern%20Swift%20API%20Design%20e4a02d6c993647adb28843bc8610c8e7.md)|
+|붱이|[Advances in UI Data Source](https://github.com/O-O-wl/WWDC/blob/master/WWDC19/Advances%20in%20UI%20Data%20Sources/Advances%20in%20UI%20Data%20Sources.md)|
 
 <br/>
 
@@ -40,7 +41,6 @@
 |민지|[High Performance AutoLayout](https://www.notion.so/cmindy/3c971177e1ef48398085b81d141d24b5?v=9ded98a92de24fb08b3302c4b2abc1f6)|
 ||[Understanding Swift Performance](https://www.notion.so/cmindy/Understanding-Swift-Performance-1b09d5426c2c478c80777e3012cbfe6b)|
 |현태|[Protocol Oriented Programming](https://github.com/onemoonStudio/WWDC/blob/master/Protocol-Oriented-Programming.md)|
-
 <br/>
 
 |**5월 5주차**||
