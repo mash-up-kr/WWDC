@@ -27,6 +27,7 @@
 ||[Advances in UI Data Source](https://github.com/O-O-wl/WWDC/blob/master/WWDC19/Advances%20in%20UI%20Data%20Sources/Advances%20in%20UI%20Data%20Sources.md)|
 |**6월 3주차**||
 |현태|[Core Data Best Practice](https://github.com/onemoonStudio/WWDC/blob/master/Best-Practice-CoreData.md)|
+|진하|[Great Developer Habits](https://github.com/HARlBO/WWDC/blob/master/WWDC2019/Great-Developer-Habits.md)|
 <br/>
 
 |**5월 3주차**||
