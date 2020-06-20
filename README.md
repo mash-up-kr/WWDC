@@ -28,6 +28,8 @@
 |**6월 3주차**||
 |현태|[Core Data Best Practice](https://github.com/onemoonStudio/WWDC/blob/master/Best-Practice-CoreData.md)|
 |진하|[Great Developer Habits](https://github.com/HARlBO/WWDC/blob/master/WWDC2019/Great-Developer-Habits.md)|
+||[Choosing the Right Cocoa Container View](https://github.com/HARlBO/WWDC/blob/master/WWDC2017/Choosing-the-Right-Cocoa-Container-View.md)|
+
 <br/>
 
 |**5월 3주차**||
