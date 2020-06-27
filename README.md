@@ -32,6 +32,7 @@
 |**6월 4주차**||
 |진하|[What's new in Swift(2020)](https://github.com/HARlBO/WWDC/blob/master/WWDC2020/Whats-new-in-Swift.md)|
 ||[Get the most out of Sign in with Apple](https://github.com/HARlBO/WWDC/blob/master/WWDC2020/Get-the-most-out-of-Sign-in-with-Apple.md)|
+|민지|[Meet WidgetKit](https://www.notion.so/cmindy/Meet-WidgetKit-98a4b6a204e8494799bbe00033323e3a)|
 
 <br/>
 
