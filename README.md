@@ -35,6 +35,7 @@
 |민지|[Meet WidgetKit](https://www.notion.so/cmindy/Meet-WidgetKit-98a4b6a204e8494799bbe00033323e3a)|
 |**6월 5주차**||
 |진하|[Meet WidgetKit](https://github.com/HARlBO/WWDC/blob/master/WWDC2020/Meet-WidgetKit.md)|
+||[Design great widgets](https://github.com/HARlBO/WWDC/blob/master/WWDC2020/Design-great-widgets.md)|
 |현태|[Data You Can Trust](https://github.com/onemoonStudio/WWDC/blob/master/Data-you-can-trust.md)|
 
 <br/>
