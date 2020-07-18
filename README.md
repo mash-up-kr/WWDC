@@ -2,13 +2,18 @@
 👩🏻‍💻W̤̯W̤̫D̤̮C̤̥ 𝒔𝒕𝒖𝒅𝒚🧑🏻‍💻 
 <br/><br/>
 ### 📌 Rule
-- **🎬 일주일에 세션 2개**  
+- **🎬 일주일에 세션 1개**
 - **👩🏻‍🏫 세션 보고 정리 후 공유** 온라인 1 회, 오프라인 1회 예정
 - **💸 벌금 영상 하나 당 5000원 😡** 
 <br/><br/>
 
-|**7월 3주차**||
+|**7월 1주차**||
 |:-:|:-|
+|진하|[Meet WidgetKit](https://github.com/HARlBO/WWDC/blob/master/WWDC2020/Meet-WidgetKit.md)|
+||[Design great widgets](https://github.com/HARlBO/WWDC/blob/master/WWDC2020/Design-great-widgets.md)|
+|현태|[Data You Can Trust](https://github.com/onemoonStudio/WWDC/blob/master/Data-you-can-trust.md)|
+|**7월 2주차**||
+|**7월 3주차**||
 |현태|[Great Developer Habits](https://github.com/onemoonStudio/WWDC/blob/master/Great-Developer-habits.md)|
 
 <br/>
@@ -39,10 +44,6 @@
 |진하|[What's new in Swift(2020)](https://github.com/HARlBO/WWDC/blob/master/WWDC2020/Whats-new-in-Swift.md)|
 ||[Get the most out of Sign in with Apple](https://github.com/HARlBO/WWDC/blob/master/WWDC2020/Get-the-most-out-of-Sign-in-with-Apple.md)|
 |민지|[Meet WidgetKit](https://www.notion.so/cmindy/Meet-WidgetKit-98a4b6a204e8494799bbe00033323e3a)|
-|**6월 5주차**||
-|진하|[Meet WidgetKit](https://github.com/HARlBO/WWDC/blob/master/WWDC2020/Meet-WidgetKit.md)|
-||[Design great widgets](https://github.com/HARlBO/WWDC/blob/master/WWDC2020/Design-great-widgets.md)|
-|현태|[Data You Can Trust](https://github.com/onemoonStudio/WWDC/blob/master/Data-you-can-trust.md)|
 
 <br/>
 
