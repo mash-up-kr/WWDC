@@ -7,6 +7,12 @@
 - **💸 벌금 영상 하나 당 5000원 😡** 
 <br/><br/>
 
+|**7월 3주차**||
+|:-:|:-|
+|현태|[Great Developer Habits](https://github.com/onemoonStudio/WWDC/blob/master/Great-Developer-habits.md)|
+
+<br/>
+
 |**6월 1주차**||
 |:-:|:-|
 |진하|[Advances in AVFoundation Playback](https://github.com/HARlBO/WWDC/blob/master/WWDC2016/Advances-in-AVFoundation-Playback.md)|
